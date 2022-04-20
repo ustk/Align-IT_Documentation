@@ -11,7 +11,7 @@ For doing so, you will need to load the plugin differently regarding the DAW you
 Sometimes, the best strategy is to load the plugin on a separated audio/aux track and use a MIDI track to send MIDI information to the plugin.
 
 
-## Ableton ![](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/ableton.png)
+## ![](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/ableton.png) Ableton
 
 Three Tracks:
 
