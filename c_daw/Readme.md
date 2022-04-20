@@ -17,17 +17,20 @@ Three Tracks:
 
 ![DAW_Ableton_3_Tracks](/images/custom/DAW_Ableton_3_Tracks.png)
 
-## ![](images/custom/DAWs/logicPro.png:64px) Logic Pro
+## ![](images/custom/DAWs/logicPro.png) Logic Pro
 
 
-## ![](images/custom/DAWs/proTools.png:64px) Pro Tools
+## ![](images/custom/DAWs/proTools.png) Pro Tools
 
 Instrument Track:
+
 ![DAW_ProTools_Instrument_Track](/images/custom/DAW_ProTools_Instrument_Track.png)
 ![DAW_ProTools_Instrument_Track_Routing](/images/custom/DAW_ProTools_Instrument_Track_Routing.png)  
+
 >Hint: You can select multiple outputs with CTRL+Click
 
 MIDI + Audio Track:
+
 ![DAW_ProTools_Audio_Track](/images/custom/DAW_ProTools_Audio_Track.png)
 
 ## ![](images/custom/DAWs/cubase.png:64px) Cubase
