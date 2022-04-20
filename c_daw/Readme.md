@@ -14,7 +14,7 @@ Sometimes, the best strategy is to load the plugin on a separated audio/aux trac
 ## ![](https://github.com/ustk/Align-IT_Documentation/tree/master/images/custom/DAWs/ableton.png:64px) Ableton
 
 Three Tracks:
-![DAW_Ableton_3_Tracks](https://github.com/ustk/Align-IT_Documentation/tree/master/images/custom/DAW_Ableton_3_Tracks.png)
+![DAW_Ableton_3_Tracks](https://github.com/ustk/Align-IT_Documentation/tree/master//images/custom/DAW_Ableton_3_Tracks.png)
 
 ## ![](https://github.com/ustk/Align-IT_Documentation/tree/master/images/custom/DAWs/logicPro.png:64px) Logic Pro
 
@@ -22,12 +22,12 @@ Three Tracks:
 ## ![](https://github.com/ustk/Align-IT_Documentation/tree/master/images/custom/DAWs/proTools.png:64px) Pro Tools
 
 Instrument Track:
-![DAW_ProTools_Instrument_Track](https://github.com/ustk/Align-IT_Documentation/tree/master/images/custom/DAW_ProTools_Instrument_Track.png)
-![DAW_ProTools_Instrument_Track_Routing](https://github.com/ustk/Align-IT_Documentation/tree/master/images/custom/DAW_ProTools_Instrument_Track_Routing.png)  
+![DAW_ProTools_Instrument_Track](https://github.com/ustk/Align-IT_Documentation/tree/master//images/custom/DAW_ProTools_Instrument_Track.png)
+![DAW_ProTools_Instrument_Track_Routing](https://github.com/ustk/Align-IT_Documentation/tree/master//images/custom/DAW_ProTools_Instrument_Track_Routing.png)  
 >Hint: You can select multiple outputs with CTRL+Click
 
 MIDI + Audio Track:
-![DAW_ProTools_Audio_Track](https://github.com/ustk/Align-IT_Documentation/tree/master/images/custom/DAW_ProTools_Audio_Track.png)
+![DAW_ProTools_Audio_Track](https://github.com/ustk/Align-IT_Documentation/tree/master//images/custom/DAW_ProTools_Audio_Track.png)
 
 ## ![](https://github.com/ustk/Align-IT_Documentation/tree/master/images/custom/DAWs/cubase.png:64px) Cubase
 
