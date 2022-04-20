@@ -7,25 +7,13 @@ modified: 8.12.2021
 ---
 
 
-| dsdfbv | heiuhgerg |
-| :150px | |
-| kjshdv | kjhsfg |
-| kjshdv | kjhsfg |
-
-| Tables kjshd ohzg  |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-
 ![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
 
 This is the user manual for Align-IT.  
 Align-IT is a property of Studio 427 Audio, copyright 2021.
 
-For more information on our products, please visit *studio427audio.com*
-[MyFile](/b_registration#register-the-plugin)
+For more information on our products, please visit *studio427audio.com*  
+[Unlock](register-the-plugin)  
 
 All trademarks cited in this document are the property of their respective owners, hence, cannot be associated with Studio 427 Audio by any means.
 
