@@ -13,7 +13,7 @@ Sometimes, the best strategy is to load the plugin on a separated audio/aux trac
 
 ## ![](https://www.studio427audio.com/_documentation/_common/images/DAWs/ableton.png) Ableton
 
-Three Tracks: prout
+Three Tracks:
 
 ![DAW_Ableton_3_Tracks](https://www.studio427audio.com/_documentation/alignit/images/DAW_Ableton_3_Tracks.png)
 
