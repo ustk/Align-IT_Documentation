@@ -25,6 +25,7 @@ Three Tracks:
 Instrument Track:
 
 ![DAW_ProTools_Instrument_Track](/images/custom/DAW_ProTools_Instrument_Track.png)
+
 ![DAW_ProTools_Instrument_Track_Routing](/images/custom/DAW_ProTools_Instrument_Track_Routing.png)  
 
 >Hint: You can select multiple outputs with CTRL+Click
