@@ -6,7 +6,7 @@ author:   Studio 427 Audio
 modified: 8.12.2021
 ---
 
-## Welcome in Align-IT!
+## Welcome to Align-IT!
 
 Thank you for choosing Studio 427 Audio.  
 Here you will find all the information necessary for measuring the delay time of your venue.
