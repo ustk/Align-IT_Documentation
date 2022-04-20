@@ -11,9 +11,10 @@ For doing so, you will need to load the plugin differently regarding the DAW you
 Sometimes, the best strategy is to load the plugin on a separated audio/aux track and use a MIDI track to send MIDI information to the plugin.
 
 
-## ![](images/custom/DAWs/ableton.png:64px) Ableton
+## ![](images/custom/DAWs/ableton.png) Ableton
 
 Three Tracks:
+
 ![DAW_Ableton_3_Tracks](/images/custom/DAW_Ableton_3_Tracks.png)
 
 ## ![](images/custom/DAWs/logicPro.png:64px) Logic Pro
