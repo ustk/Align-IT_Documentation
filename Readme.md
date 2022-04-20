@@ -12,8 +12,8 @@ modified: 8.12.2021
 | kjshdv | kjhsfg |
 | kjshdv | kjhsfg |
 
-| Tables   |      Are      |  Cool |
-|---150px--|:-------------:|------:|
+| Tables kjshd ohzg  |      Are      |  Cool |
+|----------|:-------------:|------:|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
