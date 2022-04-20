@@ -1,10 +1,17 @@
 ---
 keywords: User Manual
-summary:  User Manual for BlueMouth
+summary:  User Manual for Align-IT
 author:   Studio 427 Audio
 colour:   #FF222222
 modified: 8.12.2021
 ---
+
+
+| dsdfbv | heiuhgerg |
+| :150px | |
+| kjshdv | kjhsfg |
+| kjshdv | kjhsfg |
+
 
 ![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
 
