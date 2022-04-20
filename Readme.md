@@ -6,7 +6,7 @@ colour:   #FF222222
 modified: 8.12.2021
 ---
 
-![Studio427Audio](/images/custom/Studio427Audio.png)
+![Studio427Audio](https://www.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
 
 This is the user manual for Align-IT.  
 Align-IT is a property of Studio 427 Audio, copyright 2021.
