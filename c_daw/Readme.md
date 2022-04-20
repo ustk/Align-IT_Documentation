@@ -13,6 +13,8 @@ Sometimes, the best strategy is to load the plugin on a separated audio/aux trac
 
 ## ![](images/custom/DAWs/ableton.png) Ableton
 
+![zozio](https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg)
+
 Three Tracks:
 
 ![DAW_Ableton_3_Tracks](/images/custom/DAW_Ableton_3_Tracks.png)
