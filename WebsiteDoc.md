@@ -1,4 +1,4 @@
-
+# User Manual for Align-IT
 
 
 ![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
@@ -13,7 +13,7 @@ All trademarks cited in this document are the property of their respective owner
 
 ___
 
-
+# Welcome
 
 ## Welcome to Align-IT!
 
@@ -45,10 +45,9 @@ There are many tools on the market for achieving the calibration of a venue. Alt
 
 ___
 
+# Unlock
 
-
-
-In order to unlock Align-IT, you first need to activate your computer using the S427 Control Center.
+In order to unlock Align-IT, you first need to activate your computer using the **S427 Control Center**.
 
 In the Control Center app:
 
@@ -57,8 +56,7 @@ In the Control Center app:
 - Select the license in the right panel
 - Activate your computer
 - Download/Install the icense file
-
-Once this is done, you need to restart Align-IT to unlock.
+- Restart Align-IT
 
 
 ## Register The Plugin
@@ -72,18 +70,12 @@ For registering your own version of the plugin:
 Congratulations. You can now fully enjoy BlueMouth.
 
 If you encounter any issue regarding your registration, please submit a ticket:
-[Studio427 Audio](http://www.google.com)
-
-
-## Demo Mode
-
-The Demo Mode will give you a full access to BlueMouth functionnalities for 20 minutes, except that you will not be able to save your own presets.  
-After a delay of 20 minutes, you will need to relaunch the plugin or register with Studio427 Audio to get your license
+[Studio427 Audio](http://www.google.com
 
 
 ___
 
-
+# DAW Integration
 
 The main interest, I'd rather say the most funny part in using BlueMouth, is when you control the plugin from a MIDI keyboard and/or controller.  
 For doing so, you will need to load the plugin differently regarding the DAW you are using. Simply placing the plugin in the FX chain of your audio source will not give you access to the ARP, Key To Formant, or CC modulation via MIDI.  
@@ -130,7 +122,7 @@ MIDI + Audio Track:
 
 ___
 
-
+# Main Parameters
 
 ## The Ocular, the Eye, and the Mouth...
 
@@ -233,7 +225,7 @@ The Formant modulation has its own smoothing setting (Att & Rel)
 
 ___
 
-
+# Secondary Parameters
 
 ## Filters action
 
@@ -372,7 +364,7 @@ This is especially powerful on long notes, or with slow modulation.
 
 ___
 
-
+# Preset Browser
 
 ![Preset Bar](/images/custom/presetBar.png)
 ![Preset Browser](/images/custom/presetBrowser.png)
@@ -407,7 +399,7 @@ Delete a category folder, sub-category folder, or preset.
 
 ___
 
-
+# Modulation
 
 ![Modulation](/images/custom/modulation.png)
 
@@ -501,7 +493,7 @@ A click on a plotter invert the polarity of the modulation.
 
 ___
 
-
+# Arpeggiator
 
 ![ARP](/images/custom/arp.png)
 
@@ -543,14 +535,14 @@ The arrow in the middle lets you change the direction the ARP is playing.
 
 ___
 
-
+# Key To Formant
 
 ![Key To Formant](/images/custom/keyToFormant.png
 
 
 ___
 
-
+# MIDI Learn
 
 ![MIDI Learn](/images/custom/midiLearn.png
 
