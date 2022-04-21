@@ -1,4 +1,4 @@
-
+---
 
 
 ![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
@@ -12,7 +12,7 @@ For more information on our products, please visit *studio427audio.com*
 All trademarks cited in this document are the property of their respective owners, hence, cannot be associated with Studio 427 Audio by any means
 
 
-
+---
 
 ## Welcome to Align-IT!
 
@@ -39,10 +39,10 @@ There are many tools on the market for achieving the calibration of a venue. Alt
 - Adapts to lighter CPU via Selection length and Precision controls for quicker computation.
 - Unit customisation Metric/Imperial and Celsius/Fahrenheit.
 - Export the result as Screenshot *(.png)*, Text *(.txt)*, or comma separated file *(.csv)* so you have multiple ways to bring the results to your processors.
-- No need for specific calibration microphone, any reference you have at hand will do *(accurate spectrum measure still requires an adapted microphone)
+- No need for specific calibration microphone, any reference you have at hand will do *(accurate spectrum measure still requires an adapted microphone)*
 
 
-
+---
 
 
 In order to unlock Align-IT, you first need to activate your computer using the S427 Control Center.
@@ -78,7 +78,7 @@ The Demo Mode will give you a full access to BlueMouth functionnalities for 20 m
 After a delay of 20 minutes, you will need to relaunch the plugin or register with Studio427 Audio to get your license
 
 
-
+---
 
 The main interest, I'd rather say the most funny part in using BlueMouth, is when you control the plugin from a MIDI keyboard and/or controller.  
 For doing so, you will need to load the plugin differently regarding the DAW you are using. Simply placing the plugin in the FX chain of your audio source will not give you access to the ARP, Key To Formant, or CC modulation via MIDI.  
@@ -123,7 +123,7 @@ MIDI + Audio Track:
 ## ![](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reaper.png:64px) Reape
 
 
-
+---
 
 ## The Ocular, the Eye, and the Mouth...
 
@@ -219,7 +219,7 @@ The Formant modulation has its own smoothing setting (Att & Rel)
 >Hint: The Formant Smoothing setting on the main interface is repeated in the ARP as well as in the Key To Formant page.  => Moving one or the other as the same result.  Although, it is important to keep in mind that this setting is disengaged when modulating the Formant. In this case, the modulation matrix provides separated Attack & Release setting. When disengaging the modulation of the formant though, the main Smoothing setting is re-engaged automatically
 
 
-
+---
 
 ## Filters action
 
@@ -251,7 +251,7 @@ But this is not trully accurate. F0 corresponds, in fact, to the pitch of the vo
 
 ![](images/custom/WARNING.png)
 
->Hint: F0 is a low frequency, care must be taken in order not to overload the mix.  
+>Hint: F0 is a low frequency, care must be taken in order not to overload the mix.
 
 ### F1 & F2
 
@@ -259,7 +259,7 @@ F1 and F2 are the two main frequencies that are necessary so our brain can recon
 
 ### F3
 
-F3, for its part, helps to add a more realistic imprint.  
+F3, for its part, helps to add a more realistic imprint. 
 
 
 ### Parameters
@@ -276,7 +276,7 @@ These three parameters don't have the same scope:
 | -- | ------ |
 | Gain | Common to all formants |
 | Frequency | Independent / per formant |
-| Q | Independent / per formant |  
+| Q | Independent / per formant |
 
 
 ## Adaptive Rejection Filter
@@ -292,7 +292,7 @@ The term Adaptive means that the frequencies that are cut, are always calculated
 
 - Between F0 & F1
 - Between F1 & F2
-- Between F2 & F3  
+- Between F2 & F3
 
 
 ## Adaptive Shelf Filters
@@ -302,7 +302,7 @@ The term Adaptive means that the frequencies that are cut, are always calculated
 As for the ARF, the Adaptive Shelf Filters follow the selected frequency.  
 The selected formant frequency is kept intact, as the shelf is, in fact, outside of it.
 
-> Hint: The shelf frequency is not the selected frequency itself, but everything that is above it for the HiShelf, or below for the LoShelf.  
+> Hint: The shelf frequency is not the selected frequency itself, but everything that is above it for the HiShelf, or below for the LoShelf.
 
 
 ## Level Compensation
@@ -318,7 +318,7 @@ This is why BlueMouth as been thouroughly designed to compensate for high levels
 Although care has been taken to keep the signal as straight as possible, the result can change from one source to another.
 The "Compensate" knob sets the output level when Intensity is higher than 0%.
 
->Set Intensity at 0 and remember the level.  Set intensity at 100% and try to match the previous level using the "Compensate" knob.  
+>Set Intensity at 0 and remember the level.  Set intensity at 100% and try to match the previous level using the "Compensate" knob.
 
 
 ## Adaptive Limiter
@@ -356,7 +356,7 @@ This is especially powerful on long notes, or with slow modulation.
 > Protip: we like it 3/4 up almost all the time :
 
 
-
+---
 
 ![Preset Bar](/images/custom/presetBar.png)
 ![Preset Browser](/images/custom/presetBrowser.png)
@@ -389,7 +389,7 @@ Delete a category folder, sub-category folder, or preset.
 > In Demo Mode, you cannot Save, Add, Rename or Delete a preset
 
 
-
+---
 
 ![Modulation](/images/custom/modulation.png)
 
@@ -481,7 +481,7 @@ A click on a plotter invert the polarity of the modulation.
 -Orange: inverte
 
 
-
+---
 
 ![ARP](/images/custom/arp.png)
 
@@ -521,12 +521,12 @@ The arrow in the middle lets you change the direction the ARP is playing.
 >Protip: Cool if switched via CC (see [MIDI Learn](/j_midilearn))
 
 
-
+---
 
 ![Key To Formant](/images/custom/keyToFormant.png
 
 
-
+---
 
 ![MIDI Learn](/images/custom/midiLearn.png
 
