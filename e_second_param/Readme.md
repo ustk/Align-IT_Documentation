@@ -26,7 +26,7 @@ Below is a representation of how the different filters are applied:
 
 The Main Formant Filter allows for independent setting of the different characteristics of a formant. 
  
->Hint: The selected formant appears in the Adaptive Shelf Filter panel.  Ensure that you have selected the good formant in the formant wheel prior any modification. What your hear might not be what you see!
+> Hint: The selected formant appears in the Adaptive Shelf Filter panel.  Ensure that you have selected the good formant in the formant wheel prior any modification. What your hear might not be what you see!
 
 The Main Formant Filter is composed with the four frequencies that characterize a formant, from F0 to F3.
 
@@ -51,13 +51,13 @@ F3, for its part, helps to add a more realistic imprint.
 
 Each of the four formant frequencies have three parameters.
 
--Gain
--Frequency
--Q Factor
+- Gain
+- Frequency
+- Q Factor
 
 These three parameters don't have the same scope:
 
-|| Parameter | Setting scope |
+| Parameter | Setting scope |
 | -- | ------ |
 | Gain | Common to all formants |
 | Frequency | Independent / per formant |
@@ -75,9 +75,9 @@ Medium setting in the ARF often gives best results.
 
 The term Adaptive means that the frequencies that are cut, are always calculated to be in between those from the Formant Filter
 
--Between F0 & F1
--Between F1 & F2
--Between F2 & F3
+- Between F0 & F1
+- Between F1 & F2
+- Between F2 & F3
 
 
 ## Adaptive Shelf Filters
@@ -87,7 +87,7 @@ The term Adaptive means that the frequencies that are cut, are always calculated
 As for the ARF, the Adaptive Shelf Filters follow the selected frequency.  
 The selected formant frequency is kept intact, as the shelf is, in fact, outside of it.
 
->Hint: The shelf frequency is not the selected frequency itself, but everything that is above it for the HiShelf, or below for the LoShelf.
+> Hint: The shelf frequency is not the selected frequency itself, but everything that is above it for the HiShelf, or below for the LoShelf.
 
 
 ## Level Compensation
@@ -116,7 +116,7 @@ The Adaptive Limiter will scrutinze the Formant Frequencies so it is always read
 
 The Adaptive Limiter Reduction level is shown in the Gain & Meters section.
 
->Hint: The Adaptive Limiter worth to be engaged all the time. The goal, obviously, being to keep it as quiet as possible by the mean of the different level settings, like Compensate, Gain, F0-F3, and the input source.
+> Hint: The Adaptive Limiter worth to be engaged all the time. The goal, obviously, being to keep it as quiet as possible by the mean of the different level settings, like Compensate, Gain, F0-F3, and the input source.
 
 
 ## Gain Control, Input, Output, and Reduction Meters
@@ -125,7 +125,7 @@ The Adaptive Limiter Reduction level is shown in the Gain & Meters section.
 
 The Gain level helps to prevent clipping of the output.
 
->Hint: The Gain is situated before the Adaptive Limiter in audio the chain.
+> Hint: The Gain is situated before the Adaptive Limiter in audio the chain.
 
 
 ## Humanizer
@@ -138,7 +138,7 @@ The Humanizer subtly modulates the formant frequencies independently and randoml
 This is especially powerful on long notes, or with slow modulation.
 
 ![](images/custom/IDEA.png)
->Protip: we like it 3/4 up almost all the time :)
+> Protip: we like it 3/4 up almost all the time :)
 
 
 
