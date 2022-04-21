@@ -251,7 +251,7 @@ But this is not trully accurate. F0 corresponds, in fact, to the pitch of the vo
 
 ![](images/custom/WARNING.png)
 
->Hint: F0 is a low frequency, care must be taken in order not to overload the mix.
+>Hint: F0 is a low frequency, care must be taken in order not to overload the mix.  
 
 ### F1 & F2
 
@@ -259,7 +259,7 @@ F1 and F2 are the two main frequencies that are necessary so our brain can recon
 
 ### F3
 
-F3, for its part, helps to add a more realistic imprint. 
+F3, for its part, helps to add a more realistic imprint.  
 
 
 ### Parameters
@@ -276,7 +276,7 @@ These three parameters don't have the same scope:
 | -- | ------ |
 | Gain | Common to all formants |
 | Frequency | Independent / per formant |
-| Q | Independent / per formant |
+| Q | Independent / per formant |  
 
 
 ## Adaptive Rejection Filter
@@ -292,7 +292,7 @@ The term Adaptive means that the frequencies that are cut, are always calculated
 
 - Between F0 & F1
 - Between F1 & F2
-- Between F2 & F3
+- Between F2 & F3  
 
 
 ## Adaptive Shelf Filters
@@ -302,7 +302,7 @@ The term Adaptive means that the frequencies that are cut, are always calculated
 As for the ARF, the Adaptive Shelf Filters follow the selected frequency.  
 The selected formant frequency is kept intact, as the shelf is, in fact, outside of it.
 
-> Hint: The shelf frequency is not the selected frequency itself, but everything that is above it for the HiShelf, or below for the LoShelf.
+> Hint: The shelf frequency is not the selected frequency itself, but everything that is above it for the HiShelf, or below for the LoShelf.  
 
 
 ## Level Compensation
@@ -318,7 +318,7 @@ This is why BlueMouth as been thouroughly designed to compensate for high levels
 Although care has been taken to keep the signal as straight as possible, the result can change from one source to another.
 The "Compensate" knob sets the output level when Intensity is higher than 0%.
 
->Set Intensity at 0 and remember the level.  Set intensity at 100% and try to match the previous level using the "Compensate" knob.
+>Set Intensity at 0 and remember the level.  Set intensity at 100% and try to match the previous level using the "Compensate" knob.  
 
 
 ## Adaptive Limiter
