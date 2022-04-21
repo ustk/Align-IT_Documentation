@@ -7,13 +7,12 @@ modified: 8.12.2021
 ---
 
 
-![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png:128px)
+![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
 
 This is the user manual for Align-IT.  
-Align-IT is a property of Studio 427 Audio, copyright 2021.
+Align-IT is a property of Studio 427 Audio, copyright 2021.  
 
-For more information on our products, please visit *studio427audio.com*  
-[Unlock](register-the-plugin)  
+For more information on our products, please visit [studio427audio.com](https://www.staging.studio427audio.com)
 
 All trademarks cited in this document are the property of their respective owners, hence, cannot be associated with Studio 427 Audio by any means.
 
