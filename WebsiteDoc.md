@@ -1,4 +1,4 @@
----
+
 
 
 ![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
@@ -12,7 +12,9 @@ For more information on our products, please visit *studio427audio.com*
 All trademarks cited in this document are the property of their respective owners, hence, cannot be associated with Studio 427 Audio by any means
 
 
----
+___
+
+
 
 ## Welcome to Align-IT!
 
@@ -42,7 +44,9 @@ There are many tools on the market for achieving the calibration of a venue. Alt
 - No need for specific calibration microphone, any reference you have at hand will do *(accurate spectrum measure still requires an adapted microphone)*
 
 
----
+___
+
+
 
 
 In order to unlock Align-IT, you first need to activate your computer using the S427 Control Center.
@@ -78,7 +82,9 @@ The Demo Mode will give you a full access to BlueMouth functionnalities for 20 m
 After a delay of 20 minutes, you will need to relaunch the plugin or register with Studio427 Audio to get your license
 
 
----
+___
+
+
 
 The main interest, I'd rather say the most funny part in using BlueMouth, is when you control the plugin from a MIDI keyboard and/or controller.  
 For doing so, you will need to load the plugin differently regarding the DAW you are using. Simply placing the plugin in the FX chain of your audio source will not give you access to the ARP, Key To Formant, or CC modulation via MIDI.  
@@ -123,7 +129,9 @@ MIDI + Audio Track:
 ## ![](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reaper.png:64px) Reape
 
 
----
+___
+
+
 
 ## The Ocular, the Eye, and the Mouth...
 
@@ -219,7 +227,9 @@ The Formant modulation has its own smoothing setting (Att & Rel)
 >Hint: The Formant Smoothing setting on the main interface is repeated in the ARP as well as in the Key To Formant page.  => Moving one or the other as the same result.  Although, it is important to keep in mind that this setting is disengaged when modulating the Formant. In this case, the modulation matrix provides separated Attack & Release setting. When disengaging the modulation of the formant though, the main Smoothing setting is re-engaged automatically
 
 
----
+___
+
+
 
 ## Filters action
 
@@ -356,7 +366,9 @@ This is especially powerful on long notes, or with slow modulation.
 > Protip: we like it 3/4 up almost all the time :
 
 
----
+___
+
+
 
 ![Preset Bar](/images/custom/presetBar.png)
 ![Preset Browser](/images/custom/presetBrowser.png)
@@ -389,7 +401,9 @@ Delete a category folder, sub-category folder, or preset.
 > In Demo Mode, you cannot Save, Add, Rename or Delete a preset
 
 
----
+___
+
+
 
 ![Modulation](/images/custom/modulation.png)
 
@@ -481,7 +495,9 @@ A click on a plotter invert the polarity of the modulation.
 -Orange: inverte
 
 
----
+___
+
+
 
 ![ARP](/images/custom/arp.png)
 
@@ -521,13 +537,19 @@ The arrow in the middle lets you change the direction the ARP is playing.
 >Protip: Cool if switched via CC (see [MIDI Learn](/j_midilearn))
 
 
----
+___
+
+
 
 ![Key To Formant](/images/custom/keyToFormant.png
 
 
----
+___
+
+
 
 ![MIDI Learn](/images/custom/midiLearn.png
 
+
+___
 
