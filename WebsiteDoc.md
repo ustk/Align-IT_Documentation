@@ -1,7 +1,7 @@
 
 
 
-![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
+![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png:128px)
 
 This is the user manual for Align-IT.  
 Align-IT is a property of Studio 427 Audio, copyright 2021.
@@ -97,10 +97,10 @@ Three Tracks:
 
 ![DAW_Ableton_3_Tracks](https://www.staging.studio427audio.com/_documentation/alignit/images/DAW_Ableton_3_Tracks.png)
 
-## Logic Pro ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/logicPro.png)
+## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/logicPro.png) Logic Pro
 
 
-## Pro Tools ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/proTools.png)
+## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/proTools.png) Pro Tools
 
 Instrument Track:
 
@@ -114,19 +114,19 @@ MIDI + Audio Track:
 
 ![DAW_ProTools_Audio_Track](https://www.staging.studio427audio.com/_documentation/alignit/images/DAW_ProTools_Audio_Track.png)
 
-## Cubase ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/cubase.png:64px)
+## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/cubase.png) Cubase
 
 
-## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/flStudio.png:64px) FL Studio
+## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/flStudio.png) FL Studio
 
 
-## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/studioOne.png:64px) Studio One
+## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/studioOne.png) Studio One
 
 
-## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reason.png:64px) Reason
+## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reason.png) Reason
 
 
-## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reaper.png:64px) Reape
+## ![icon](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reaper.png) Reape
 
 
 ___
