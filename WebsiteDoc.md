@@ -1,10 +1,4 @@
 ---
-keywords: User Manual
-summary:  User Manual for Align-IT
-author:   Studio 427 Audio
-colour:   #FF222222
-modified: 8.12.2021
----
 
 
 ![Studio427Audio](https://www.staging.studio427audio.com/_documentation/_common/images/Studio427Audio.png)
@@ -15,44 +9,9 @@ Align-IT is a property of Studio 427 Audio, copyright 2021.
 For more information on our products, please visit *studio427audio.com*  
 [Unlock](register-the-plugin)  
 
-All trademarks cited in this document are the property of their respective owners, hence, cannot be associated with Studio 427 Audio by any means.
+All trademarks cited in this document are the property of their respective owners, hence, cannot be associated with Studio 427 Audio by any means
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-keywords: Welcome
-summary:  Welcome
-index:    1
-author:   Studio 427 Audio
-modified: 8.12.2021
 ---
 
 ## Welcome to Align-IT!
@@ -80,20 +39,9 @@ There are many tools on the market for achieving the calibration of a venue. Alt
 - Adapts to lighter CPU via Selection length and Precision controls for quicker computation.
 - Unit customisation Metric/Imperial and Celsius/Fahrenheit.
 - Export the result as Screenshot *(.png)*, Text *(.txt)*, or comma separated file *(.csv)* so you have multiple ways to bring the results to your processors.
-- No need for specific calibration microphone, any reference you have at hand will do *(accurate spectrum measure still requires an adapted microphone)*
+- No need for specific calibration microphone, any reference you have at hand will do *(accurate spectrum measure still requires an adapted microphone)
 
 
-
-
-
-
-
----
-keywords: Unlock
-summary:  Unlock
-index:    2
-author:   Studio 427 Audio
-modified: 14.04.2022
 ---
 
 
@@ -127,15 +75,9 @@ If you encounter any issue regarding your registration, please submit a ticket:
 ## Demo Mode
 
 The Demo Mode will give you a full access to BlueMouth functionnalities for 20 minutes, except that you will not be able to save your own presets.  
-After a delay of 20 minutes, you will need to relaunch the plugin or register with Studio427 Audio to get your license.
+After a delay of 20 minutes, you will need to relaunch the plugin or register with Studio427 Audio to get your license
 
 
----
-keywords: DAW Integration
-summary:  DAW Integration
-index:    3
-author:   Studio427 Audio
-modified: 15.03.2020
 ---
 
 The main interest, I'd rather say the most funny part in using BlueMouth, is when you control the plugin from a MIDI keyboard and/or controller.  
@@ -178,50 +120,9 @@ MIDI + Audio Track:
 ## ![](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reason.png:64px) Reason
 
 
-## ![](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reaper.png:64px) Reaper
+## ![](https://www.staging.studio427audio.com/_documentation/_common/images/DAWs/reaper.png:64px) Reape
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-keywords: Main Parameters
-summary:  Main Parameters
-index:    4
-author:   Studio427 Audio
-modified: 15.03.2020
 ---
 
 ## The Ocular, the Eye, and the Mouth...
@@ -315,109 +216,10 @@ This setting affects the response of the formants for these scenario:
 ![](/images/custom/WARNING.png)
 The Formant modulation has its own smoothing setting (Att & Rel)
 
->Hint: The Formant Smoothing setting on the main interface is repeated in the ARP as well as in the Key To Formant page.  => Moving one or the other as the same result.  Although, it is important to keep in mind that this setting is disengaged when modulating the Formant. In this case, the modulation matrix provides separated Attack & Release setting. When disengaging the modulation of the formant though, the main Smoothing setting is re-engaged automatically.
+>Hint: The Formant Smoothing setting on the main interface is repeated in the ARP as well as in the Key To Formant page.  => Moving one or the other as the same result.  Although, it is important to keep in mind that this setting is disengaged when modulating the Formant. In this case, the modulation matrix provides separated Attack & Release setting. When disengaging the modulation of the formant though, the main Smoothing setting is re-engaged automatically
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-keywords: Secondary Parameters
-summary:  Secondary Parameters
-index:    5
-author:   Studio427 Audio
-modified: 15.03.2020
----
-
-## Filters action
-
-Below is a representation of how the different filters are applied:
-
-#### Formant:
-![](images/custom/curveF.png)
-#### Formant + Rejection:
-![](images/custom/curveFR.png)
-#### Formant + Rejection + Shelves:
-![](images/custom/curveFRS.png)
-
-
-
-
-## Main Formant Filter
-
-![](images/custom/mainFormantFilter.png)
-
-The Main Formant Filter allows for independent setting of the different characteristics of a formant. 
- 
->Hint: The selected formant appears in the Adaptive Shelf Filter panel.  Ensure that you have selected the good formant in the formant wheel prior any modification. What your hear might not be what you see!
-
-The Main Formant Filter is composed with the four frequencies that characterize a formant, from F0 to F3.
-
-### F0
-
-But this is not trully accurate. F0 corresponds, in fact, to the pitch of the voice. Therefore, it is not necessary for building a formant. Still, F0 can be, in some situation, useful to provide a stronger Gender on the source, although this greatly depends on the material.  
-
-![](images/custom/WARNING.png)
-
->Hint: F0 is a low frequency, care must be taken in order not to overload the mix.
-
-### F1 & F2
-
-F1 and F2 are the two main frequencies that are necessary so our brain can reconstruct the associated vowel.  
-
-### F3
-
-F3, for its part, helps to add a more realistic imprint. 
-
-
-### Parameters
-
-Each of the four formant frequencies have three parameters.
-
--Gain
--Frequency
--Q Factor
-
-These three parameters don't have the same scope:
-
-|| Parameter | Setting scope |
-| -- | ------ |
+--- |
 | Gain | Common to all formants |
 | Frequency | Independent / per formant |
 | Q | Independent / per formant |
@@ -497,38 +299,9 @@ The Humanizer subtly modulates the formant frequencies independently and randoml
 This is especially powerful on long notes, or with slow modulation.
 
 ![](images/custom/IDEA.png)
->Protip: we like it 3/4 up almost all the time :)
+>Protip: we like it 3/4 up almost all the time :
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-keywords: Preset Browser
-summary:  Preset Browser
-index:    6
-author:   Studio427 Audio
-modified: 15.03.2020
 ---
 
 ![Preset Bar](/images/custom/presetBar.png)
@@ -559,108 +332,10 @@ Delete a category folder, sub-category folder, or preset.
 
 
 ![](/images/custom/WARNNING.png)
-> In Demo Mode, you cannot Save, Add, Rename or Delete a preset.
+> In Demo Mode, you cannot Save, Add, Rename or Delete a preset
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-keywords: Modulation
-summary:  Modulation
-index:    7
-author:   Studio427 Audio
-modified: 15.03.2020
----
-
-![Modulation](/images/custom/modulation.png)
-
-## Modulation Sources
-
-There are 5 sources of modulation:
-
--1 Audio Envelope
--1 Random Oscillator
--3 Oscillators
-
-### Envelope
-
-The Envelope react to the audio present at the input of BlueMouth.
-
->Hint: This mode is ideal for Wah-Wah like effects.
-
-| Parameter | Range |
-| ---  | ----- |
-|Level | 0-100% |
-|Attack | 0 to 1-2sec (depends on the source) |
-|Release | 0 to 1-2sec (depends on the source) |
-
-### Random Oscillator
-
-The Random modulator offers you 5 waveshapes, Sine, Triangle, Saw, Invert Saw, and Square.
-Both the period and the value are randomized.
-
-| Parameter | Range |
-| ---  | ----- |
-|Level | 0-100% |
-|Speed | 0-100% |
-|Shapes | Sine/Triangle/Saw/Invert Saw/Square|
-
-### Oscillators
-
-OSC1, OSC2, and OSC3 are identical.
-
-| Parameter | Range |
-| ---  | ----- |
-|Rate  | 0.1 to 10Hz |
-|Tempo | 1/1 to 1/64T|
-|Shapes | Sine/Triangle/Saw/Invert Saw/Square|
-
-
-## Modulation Targets
-
-There are 4 modulation targets:
-
--Formant
--Intensity
--Gender
--Rejection Filter
-
-![](/images/custom/WARNING.png)
-> When enabling the Formant modulation, the ARP, or the Key To Formant mode are automatically disabled, and vice versa.
-
->Hint: to invert the polarity of the modulation, click on the associated [Plotter](/g_modulation#plotters).
-
-
-## Modulation Matrix
-
-The Matrix simply allows you to send any Modulation Source to any Target.
-
-There are also Attack & Release settings per Target.
-
-| Parameter | Range |
-| ---  | ----- |
+--- |
 |Attack  | 0-2sec |
 |Release | 0-2sec|
 
@@ -681,70 +356,10 @@ On the left of each plotter you can find the vertical offset control.
 A click on a plotter invert the polarity of the modulation.
 
 -Blue: Normal
--Orange: inverted
-  
-  
-  
-  
+-Orange: inverte
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-keywords: Arpeggiator
-summary:  Arpeggiator
-index:    8
-author:   Studio427 Audio
-modified: 15.03.2020
----
-
-![ARP](/images/custom/arp.png)
-
-Once you have connected BlueMouth to a MIDI input (see [DAW Integration](/c_daw)) and activated the ARP, it will be triggered by any incoming MIDI note.
-
-![ARP](/images/custom/WARNING.png)
->Hint 1: Note that the labels are re-ordered following the Formant wheel order (Occular).
->Hint 2: The smoothing setting is linked to the [Formant Smoothing](/d_main_param#formant-smoothing).
-
-
-## Mouse/Shortcuts
-
-- Double-Click to reset
-- Shift Double-Click to reset all
-- Right-Click or CMD-Click to draw a line
-
-
-## Controls
-
-| Parameter | Range |
-| ---  | ----- |
+--- |
 |Smooth | 0-100% |
 |Steps | 1 to 32 |
 |Swing | 0-100% |
@@ -760,123 +375,16 @@ In the case you like the result of the Random action but you feel it is not in p
 
 The arrow in the middle lets you change the direction the ARP is playing.
 
->Protip: Cool if switched via CC (see [MIDI Learn](/j_midilearn)).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>Protip: Cool if switched via CC (see [MIDI Learn](/j_midilearn))
 
 
 ---
-keywords: Key To Formant
-summary:  Key To Formant
-index:    9
-author:   Studio427 Audio
-modified: 15.03.2020
----
 
-![Key To Formant](/images/custom/keyToFormant.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Key To Formant](/images/custom/keyToFormant.png
 
 
 ---
-keywords: MIDI Learn
-summary:  MIDI Learn
-index:    10
-author:   Studio427 Audio
-modified: 15.03.2020
----
 
-![MIDI Learn](/images/custom/midiLearn.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![MIDI Learn](/images/custom/midiLearn.png
 
 
