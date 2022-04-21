@@ -11,10 +11,15 @@ modified: 15.03.2020
 The three main controls on the interface are:
 
 - The Formant selection wheel (Ocular)
+
 ![Formant_Wheel](https://www.staging.studio427audio.com/_documentation/alignit/images/Formant_Wheel.png)
+
 - The Gender setting (Eye)
+
 ![Gender](https://www.staging.studio427audio.com/_documentation/alignit/images/Gender.png)
+
 - The Intensity setting (Mouth)
+
 ![Intensity](https://www.staging.studio427audio.com/_documentation/alignit/images/Intensity.png)
 
 ![](https://www.staging.studio427audio.com/_documentation/alignit/images/WARNING.png)
