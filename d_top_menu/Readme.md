@@ -8,7 +8,7 @@ modified: 10.02.2023
 
 ### Selecting the noise type
 
-![top_menu_noise_type](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/top_menu_noise_type.png?raw=true)
+![top_menu_noise_type](https://github.com/ustk/Align-IT_Documentation/blob/master/images/top_menu_noise_type.png?raw=true)
 
 Align-IT offers 3 types of noises to CAPTURE your speakers.
 
@@ -34,7 +34,7 @@ IMPULSE CAPTURES generally require a longer SELECTION to COMPUTE.
 
 ### Main Controls
 
-![top_menu_capture](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/top_menu_capture.png?raw=true)
+![top_menu_capture](https://github.com/ustk/Align-IT_Documentation/blob/master/images/top_menu_capture.png?raw=true)
 
 ### PLAY
 
@@ -60,7 +60,7 @@ If the results are not consistent enough, consider adusting the SELECTION length
 
 ### Export Data
 
-![top_menu_export](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/top_menu_export.png?raw=true)
+![top_menu_export](https://github.com/ustk/Align-IT_Documentation/blob/master/images/top_menu_export.png?raw=true)
 
 ### CSV & TXT
 

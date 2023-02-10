@@ -6,7 +6,7 @@ colour:   #FF222222
 modified: 10.02.2023
 ---
 
-![studio427audio](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/studio427audio.png?raw=true)
+![studio427audio](https://github.com/ustk/Align-IT_Documentation/blob/master/images/studio427audio.png?raw=true)
 
 This is the user manual for Align-IT.  
 Align-IT is a property of Studio 427 Audio, copyright 2023.  

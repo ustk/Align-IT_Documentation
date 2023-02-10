@@ -13,7 +13,7 @@ There is no real difference between selecting the first or the second CAPTURE, e
 
 All following CAPTURES will be COMPUTED against the REF. If you want to compare non-REF speakers between them, select ONE of them as REF and re-COMPUTE the delays.
 
-![capture_window](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/capture_window.png?raw=true)
+![capture_window](https://github.com/ustk/Align-IT_Documentation/blob/master/images/capture_window.png?raw=true)
 
 ### CAPTURES
 
@@ -70,7 +70,7 @@ Simply DELETE this CAPTURE.
 
 ### BOTTOM PARAMETERS
 
-![capture_parameters](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/capture_parameters.png?raw=true)
+![capture_parameters](https://github.com/ustk/Align-IT_Documentation/blob/master/images/capture_parameters.png?raw=true)
 
 #### High Pass Filter (HPF)
 

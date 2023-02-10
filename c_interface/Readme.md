@@ -6,7 +6,7 @@ author:   Studio427 Audio
 modified: 10.02.2023
 ---
 
-![interface_overview](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/interface_overview.png?raw=true)
+![interface_overview](https://github.com/ustk/Align-IT_Documentation/blob/master/images/interface_overview.png?raw=true)
 
 ### Input & Output levels
 
@@ -17,18 +17,18 @@ The Output level is set by default to hit -18dB.
 
 There are 4 Navigation buttons in the corners of the interface:
 
-![navigation_capture_analyser](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/navigation_capture_analyser.png?raw=true) Spectrum/Capture Toggle.
+![navigation_capture_analyser](https://github.com/ustk/Align-IT_Documentation/blob/master/images/navigation_capture_analyser.png?raw=true) Spectrum/Capture Toggle.
 
-![navigation_export_folder](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/navigation_export_folder.png?raw=true) Open Export Folder.
+![navigation_export_folder](https://github.com/ustk/Align-IT_Documentation/blob/master/images/navigation_export_folder.png?raw=true) Open Export Folder.
 
-![navigation_settings](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/navigation_settings.png?raw=true) Settings Panel.
+![navigation_settings](https://github.com/ustk/Align-IT_Documentation/blob/master/images/navigation_settings.png?raw=true) Settings Panel.
 
-![navigation_help](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/navigation_help.png?raw=true) Help Panel.
+![navigation_help](https://github.com/ustk/Align-IT_Documentation/blob/master/images/navigation_help.png?raw=true) Help Panel.
 
 
 ### Top menu
 
-![top_menu](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/top_menu.png?raw=true)
+![top_menu](https://github.com/ustk/Align-IT_Documentation/blob/master/images/top_menu.png?raw=true)
 
 This is where you can control and perform the CAPTURES
 
@@ -36,7 +36,7 @@ This is where you can control and perform the CAPTURES
 
 #### CAPTURE parameters
 
-![capture_parameters](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/capture_parameters.png?raw=true)
+![capture_parameters](https://github.com/ustk/Align-IT_Documentation/blob/master/images/capture_parameters.png?raw=true)
 
 In CAPTURE mode, allows you to set:
 
@@ -47,7 +47,7 @@ In CAPTURE mode, allows you to set:
 
 #### ANALYSER parameters
 
-![analyser_parameters](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/analyser_parameters.png?raw=true)
+![analyser_parameters](https://github.com/ustk/Align-IT_Documentation/blob/master/images/analyser_parameters.png?raw=true)
 
 In Analyser mode, allows you to set:
 

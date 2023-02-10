@@ -6,7 +6,7 @@ author:   Studio427 Audio
 modified: 10.02.2023
 ---
 
-![analyser_window](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/analyser_window.png?raw=true)
+![analyser_window](https://github.com/ustk/Align-IT_Documentation/blob/master/images/analyser_window.png?raw=true)
 
 ### SPECTRUM
 
@@ -19,23 +19,23 @@ Screenshots of the spectrums can be exported to the export folder location
 
 ### BOTTOM PARAMETERS
 
-![analyser_parameters](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/analyser_parameters.png?raw=true)
+![analyser_parameters](https://github.com/ustk/Align-IT_Documentation/blob/master/images/analyser_parameters.png?raw=true)
 
 #### COLLECTION
 
-![analyser_collection](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/analyser_collection.png?raw=true)
+![analyser_collection](https://github.com/ustk/Align-IT_Documentation/blob/master/images/analyser_collection.png?raw=true)
 
 In the COLLECTION, you can store up to 8 SLOW curves that will be recalled next time until you delete them.
 
 #### MAIN
 
-![analyser_main](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/analyser_main.png?raw=true)
+![analyser_main](https://github.com/ustk/Align-IT_Documentation/blob/master/images/analyser_main.png?raw=true)
 
 Allows you to display the FAST and the SLOW spectrum.
 
 #### DISPLAY
 
-![analyser_display](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/analyser_display.png?raw=true)
+![analyser_display](https://github.com/ustk/Align-IT_Documentation/blob/master/images/analyser_display.png?raw=true)
 
 Allows you to set the frequency style and gain lines, toggle between split and full view, and export screenshots.
 
@@ -49,7 +49,7 @@ The freqeuncy style are:
 
 #### BALLISTIC
 
-![analyser_ballistic](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/analyser_ballistic.png?raw=true)
+![analyser_ballistic](https://github.com/ustk/Align-IT_Documentation/blob/master/images/analyser_ballistic.png?raw=true)
 
 ##### DECAY
 

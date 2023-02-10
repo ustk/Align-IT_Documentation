@@ -6,7 +6,7 @@ author:   Studio427 Audio
 modified: 10.02.2023
 ---
 
-![help_panel](https://github.com/ustk/Align-IT-DOCUMENTATION/blob/master/images/help_panel.png?raw=true)
+![help_panel](https://github.com/ustk/Align-IT_Documentation/blob/master/images/help_panel.png?raw=true)
 
 In HELP mode, hover any highlighted area to get more information.
 You can also open the embedded user manual (the user manual can also be opened from the SETTINGS).
