@@ -31,4 +31,6 @@ There are many tools on the market for achieving the calibration of a venue. Alt
 - Adapts to lighter CPU via Selection length and Precision controls for faster computation when needed.
 - Unit customisation Metric/Imperial and Celsius/Fahrenheit.
 - Export the result as Screenshot *(.png)*, Text *(.txt)*, or comma separated file *(.csv)* so you have multiple ways to bring the results with you.
-- No need for specific calibration microphone, any reference you have at hand will do for delay computation *(accurate spectrum analysis still requires an adapted microphone)*
+- No need for specific calibration microphone, any reference you have at hand will do for delay computation 
+
+> Accurate spectrum analysis still requires an adapted microphone.

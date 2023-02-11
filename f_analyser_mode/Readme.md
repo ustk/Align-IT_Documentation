@@ -42,8 +42,8 @@ Allows you to set the frequency style and gain lines, toggle between split and f
 The freqeuncy style are:
 
 - **NATURAL** (logarithmic)
-- **31 BANDS** (represent the most common 31 bands of equalisers)
-- **15 BANDS** (represent the most common 15 bands of equalisers)
+- **31 BANDS** (represent the most common 31 bands equalisers)
+- **15 BANDS** (represent the most common 15 bands equalisers)
 
 > The 31 BANDS might not align with the curve when it is set to 1/3 OCTAVE smoothing. This is perfectly normal since the chosen bands for equalisers are rounded to the closest frequencies, while a real third octave analyser like Align-IT sets the spectrum frequencies using a strict mathematical function.
 
