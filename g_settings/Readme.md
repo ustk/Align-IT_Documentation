@@ -20,8 +20,9 @@ The usual audio interface settings
 
 ##### DELAY SIGN
 
-Depending on your point of view, you might want to see the computed delay differences as POSITIVE or NEGATIVE.  
-This has no impact on the results whatsoever, it is just a visualisation help.
+Depending on your point of view, you might want to see the computed delay differences as POSITIVE or NEGATIVE values.
+
+> This has no impact on the results whatsoever, it is just a visualisation help.
 
 ##### REMEMBER SETTINGS
 
